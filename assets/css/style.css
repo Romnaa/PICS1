@@ -1,0 +1,12 @@
+:root {
+    --primary: white;
+    --secondary: rgba(0, 0, 0);
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
